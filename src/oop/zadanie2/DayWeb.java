@@ -24,3 +24,4 @@ public class DayWeb extends AbstractWeb{
         return new Response(true, String.join(", ", days));
     }
 }
+
